@@ -2,7 +2,7 @@
 
 qtd = 1
 for qtd in range (1,2):
-    while qtd <=40:
+    while qtd <=2:
         emp=int(input("Qual a sua idade? "))
         if emp >= 18:
             print("Liberado, bom filme!")
